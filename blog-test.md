@@ -20,12 +20,14 @@
                           
   ![一张图片](1.jpg)
   
-学过的编程语言有 HTML CSS 我写一段给你瞧瞧吧
-``` function f(){
+学过的编程语言有 `HTML` `CSS` `JavaScript`。我写一段给你瞧瞧吧
+
+```javascript
+function f(){
   console.log('hello world')
 }
 
-f()  
+f()
 ```
 * 目标：把前端学好 把熬夜的坏习惯改掉
 
